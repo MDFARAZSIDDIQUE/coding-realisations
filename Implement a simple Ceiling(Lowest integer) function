@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+	float aa=3.4;
+	int a=aa/1;
+	printf("%d",a);
+}
